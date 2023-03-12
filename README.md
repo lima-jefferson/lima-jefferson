@@ -33,6 +33,6 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/lima-jefferson/lima-jefferson/blob/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/lima-jefferson/lima-jefferson/main/snake.svg" />
 
 ###
